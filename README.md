@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eaí 👋🏻, eu sou o João!</h2>
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
-<p><em>sempre construindo alguma coisa nova</em></p>
+<p><em>sempre construindo alguma coisa nova por aqui</em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/FuzzionX545?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fuzzionx.com/)](https://fuzzionx.com/)
@@ -11,8 +11,7 @@
 
 ### 📫 Quer falar comigo?
 
-Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café ou talvez uma cerveja kk.
-
+Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café ou talvez uma cerveja kk.\
 **hello@fuzzionx.com**
 
 ### ⚡ Roda isso no seu terminal
@@ -79,7 +78,7 @@ const fuzzionx = {
   jaMexiCom: ["hardware & IoT", "bots de WhatsApp (Meta Cloud API)", "automações com IA"],
 
   formacao: ["Relações Internacionais", "IA para Negócios — FIA"],
-  focoAtual: "o foco muda, a curiosidade não",
+  focoAtual: "finanças e mercados — estudando e construindo",
   funFact: "estudo o mercado ouvindo grunge — volatilidade e liberdade combinam um pouco com grunge kk",
 };
 ```
