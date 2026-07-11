@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eaí 👋🏻, eu sou o João!</h2>
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
-<p><em>economia × código</em></p>
+<p><em>do candle ao deploy — mercados & código</em></p>
 
 [![Linkedin: joao](https://img.shields.io/badge/-joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)](https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)
 ![GitHub followers](https://img.shields.io/github/followers/FuzzionX545?label=Follow&style=social)
@@ -21,14 +21,13 @@ Manda um e-mail que eu respondo — mercados, código, música ou qualquer ideia
 npx fuzzionx
 ```
 
-Cotações de cripto ao vivo (em US$ e R$), gráficos desenhados no próprio terminal e uma IA pra trocar ideia sobre mercados. E se você digitar a palavra certa… acontece uma coisa. 🎸
+Cotações de cripto ao vivo (em US$ e R$), gráficos desenhados no próprio terminal e uma IA pra trocar ideia sobre mercados.
 
 ### 👨‍💻 Um pouco mais sobre mim...
 
 ```javascript
 const fuzzionx = {
   nome: "João",
-  pronomes: ["ele", "dele"],
   linguagens: ["JavaScript", "Python", "Solidity"],
   mePergunteSobre: [
     "mercado financeiro",
@@ -85,7 +84,7 @@ const fuzzionx = {
 };
 ```
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> <em><b>Bora trocar uma ideia?</b> De candle de Bitcoin a riff de Nirvana — puxa o assunto que o papo flui. 🤘</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
 
 ---
 
@@ -93,11 +92,5 @@ const fuzzionx = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=FuzzionX545&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FuzzionX545&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 </div>
-
-🎸 <sub><em>Guitarrista na <a href="https://instagram.com/teenspirit_ofc">@teenspirit_ofc</a>, banda cover de Nirvana.</em></sub>
 
