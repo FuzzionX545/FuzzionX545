@@ -1,6 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eaí 👋🏻, eu sou o João!</h2>
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
-<p><em>do candle ao deploy — mercados & código</em></p>
+<p><em>sempre construindo alguma coisa nova</em></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/FuzzionX545?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fuzzionx.com/)](https://fuzzionx.com/)
@@ -30,11 +30,11 @@ const fuzzionx = {
   nome: "João",
   linguagens: ["JavaScript", "Python", "Solidity"],
   mePergunteSobre: [
-    "mercado financeiro",
-    "cripto & blockchain",
-    "economia política",
-    "IA aplicada a negócios",
-    "cloud & serverless",
+    "tecnologia & IA",
+    "cripto & mercados",
+    "hardware",
+    "música",
+    "qualquer ideia nova",
   ],
 
   tecnologias: {
@@ -79,7 +79,7 @@ const fuzzionx = {
   jaMexiCom: ["hardware & IoT", "bots de WhatsApp (Meta Cloud API)", "automações com IA"],
 
   formacao: ["Relações Internacionais", "IA para Negócios — FIA"],
-  focoAtual: "mergulhado em finanças e mercados — estudando, testando e construindo",
+  focoAtual: "o foco muda, a curiosidade não",
   funFact: "estudo o mercado ouvindo grunge — volatilidade e liberdade combinam um pouco com grunge kk",
 };
 ```
