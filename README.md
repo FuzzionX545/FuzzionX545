@@ -7,18 +7,21 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fuzzionx.com/)](https://fuzzionx.com/)
 ![Profile views](https://komarev.com/ghpvc/?username=FuzzionX545&color=blue&style=flat-square)
 
+<!-- ✍️ João: este espaço aqui é seu — escreve sobre você com as suas palavras, sem título mesmo. Clica no lápis lá em cima e manda ver. -->
+
 ### 📫 Quer falar comigo?
 
 Manda um e-mail que eu respondo — mercados, código, música ou qualquer ideia que valha um café.
 
 **hello@fuzzionx.com**
 
-👇 Ou roda isso no seu terminal.
+### ⚡ Tem um terminal aí?
 
 ```bash
 npx fuzzionx
 ```
-**👆 Meu terminal interativo — cotações ao vivo, gráficos de cripto e uma IA pra trocar ideia sobre mercados. E dizem que tem um easter egg escondido… 🎸**
+
+Cotações de cripto ao vivo (em US$ e R$), gráficos desenhados no próprio terminal e uma IA pra trocar ideia sobre mercados. E se você digitar a palavra certa… acontece uma coisa. 🎸
 
 ### 👨‍💻 Um pouco mais sobre mim...
 
@@ -84,16 +87,15 @@ const fuzzionx = {
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> <em><b>Bora trocar uma ideia?</b> De candle de Bitcoin a riff de Nirvana — puxa o assunto que o papo flui. 🤘</em>
 
-### ✍️ Pelas minhas palavras
-
-<!-- João: este espaço é seu. Clica no lápis aqui no GitHub e escreve do seu jeito. Pode apagar a linha abaixo quando escrever. -->
-> <em>em construção — em breve escrevo aqui, com as minhas palavras.</em>
-
 ---
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=FuzzionX545&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FuzzionX545&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
 </div>
 
