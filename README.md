@@ -11,8 +11,7 @@
 
 ### 📫 Quer falar comigo?
 
-Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café.
-
+Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café ou talvez uma cerveja kk.
 **hello@fuzzionx.com**
 
 ### ⚡ Roda isso no seu terminal
@@ -80,7 +79,7 @@ const fuzzionx = {
 
   formacao: ["Relações Internacionais", "IA para Negócios — FIA"],
   focoAtual: "mergulhado em finanças e mercados — estudando, testando e construindo",
-  funFact: "estudo o mercado ouvindo Nirvana — volatilidade combina com grunge",
+  funFact: "estudo o mercado ouvindo grunge — volatilidade e libebrdade combinam um pouco com grunge kk",
 };
 ```
 
