@@ -2,10 +2,10 @@
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
 <p><em>do candle ao deploy — mercados & código</em></p>
 
-[![Linkedin: joao](https://img.shields.io/badge/-joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)](https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)
 ![GitHub followers](https://img.shields.io/github/followers/FuzzionX545?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://fuzzionx.com/)](https://fuzzionx.com/)
 ![Profile views](https://komarev.com/ghpvc/?username=FuzzionX545&color=blue&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0A66C2?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)
 
 <!-- ✍️ João: este espaço aqui é seu — escreve sobre você com as suas palavras, sem título mesmo. Clica no lápis lá em cima e manda ver. -->
 
@@ -15,7 +15,7 @@ Manda um e-mail que eu respondo — mercados, código, música ou qualquer ideia
 
 **hello@fuzzionx.com**
 
-### ⚡ Tem um terminal aí?
+### ⚡ Roda isso no seu terminal
 
 ```bash
 npx fuzzionx
