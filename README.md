@@ -1,7 +1,6 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Eaí 👋🏻, eu sou o João!</h2>
 <img align='right' src="https://media.giphy.com/media/iV6Ykak9ZBzgX7tOk6/giphy.gif" width="230">
-<p><em>aka <b>fuzzionx</b> — economia × código
-</em></p>
+<p><em>economia × código</em></p>
 
 [![Linkedin: joao](https://img.shields.io/badge/-joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)](https://www.linkedin.com/in/joao-victor-silveira-6129513b4/)
 ![GitHub followers](https://img.shields.io/github/followers/FuzzionX545?label=Follow&style=social)
@@ -14,12 +13,12 @@ Manda um e-mail que eu respondo — mercados, código, música ou qualquer ideia
 
 **hello@fuzzionx.com**
 
-👇 Ou roda isso no seu terminal para me conhecer sem sair dele.
+👇 Ou roda isso no seu terminal.
 
 ```bash
 npx fuzzionx
 ```
-**👆 Esse cartão de visita interativo vive em [npx fuzzionx](https://www.npmjs.com/package/fuzzionx)**
+**👆 Meu terminal interativo — cotações ao vivo, gráficos de cripto e uma IA pra trocar ideia sobre mercados. E dizem que tem um easter egg escondido… 🎸**
 
 ### 👨‍💻 Um pouco mais sobre mim...
 
@@ -75,13 +74,20 @@ const fuzzionx = {
     filosofia: ["simples > complexo", "seguro por padrão"],
   },
 
+  jaMexiCom: ["hardware & IoT", "bots de WhatsApp (Meta Cloud API)", "automações com IA"],
+
   formacao: ["Relações Internacionais", "IA para Negócios — FIA"],
-  focoAtual: "finanças × tecnologia",
-  funFact: "aos 15 eu criava plugins de Minecraft — o servidor caía, eu aprendia",
+  focoAtual: "mergulhado em finanças e mercados — estudando, testando e construindo",
+  funFact: "estudo o mercado ouvindo Nirvana — volatilidade combina com grunge",
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> <em><b>Bora trocar uma ideia?</b> De candle de Bitcoin a riff de Nirvana — puxa o assunto que o papo flui. 🤘</em>
+
+### ✍️ Pelas minhas palavras
+
+<!-- João: este espaço é seu. Clica no lápis aqui no GitHub e escreve do seu jeito. Pode apagar a linha abaixo quando escrever. -->
+> <em>em construção — em breve escrevo aqui, com as minhas palavras.</em>
 
 ---
 
@@ -89,11 +95,7 @@ const fuzzionx = {
 
 <img src="https://github-readme-stats.vercel.app/api?username=FuzzionX545&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
 
-<br><br>
-
-<img src="https://raw.githubusercontent.com/FuzzionX545/FuzzionX545/output/github-snake-dark.svg" width="100%" />
-
 </div>
 
-🎸 <sub><em>Guitarrista numa banda cover de Nirvana nas horas vagas.</em></sub>
+🎸 <sub><em>Guitarrista na <a href="https://instagram.com/teenspirit_ofc">@teenspirit_ofc</a>, banda cover de Nirvana.</em></sub>
 
