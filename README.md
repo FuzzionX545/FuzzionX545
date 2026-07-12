@@ -12,15 +12,15 @@
 Manda um e-mail que eu respondo — código, política, economia ou qualquer ideia que valha um café ou talvez uma cerveja :)\
 **hello@fuzzionx.com**
 
-### 💾 Quer me conhecer?
+Quer me conhecer?
 
 ```bash
 npx fuzzionx
 ```
 
-Escolhe **conversar com a IA** e pergunta o que quiser sobre mim. Veja também cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
+Escolhe conversar com a IA e pergunta o que quiser sobre mim. Veja também cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
 
-Curto conhecer gente diferente — quer dizer um **oi**? Vou ficar feliz em te conhecer! 😊
+Curto conhecer gente diferente — quer dizer um oi? Vou ficar feliz em te conhecer! 😊
 
 ---
 
