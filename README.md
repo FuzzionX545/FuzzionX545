@@ -11,9 +11,9 @@
 
 ### 📫 Quer falar comigo?
 
-Manda um e-mail que eu respondo — código, política, economia ou qualquer ideia que valha um café ou talvez uma cerveja:).\
+Manda um e-mail que eu respondo — código, política, economia ou qualquer ideia que valha um café ou talvez uma cerveja :)\
 **hello@fuzzionx.com**
-Quer me conhecer?
+   Quer me conhecer?
 Aqui você não vai achar um textão sobre mim — converse com o chat. Roda isso no terminal:
 
 ```bash
