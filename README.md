@@ -22,7 +22,7 @@ npx fuzzionx
 
 Escolhe **conversar com a IA** e pergunta o que quiser sobre mim. Veja também cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
+Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
 
 ---
 
