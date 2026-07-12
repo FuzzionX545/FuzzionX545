@@ -14,74 +14,15 @@
 Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café ou talvez uma cerveja kk.\
 **hello@fuzzionx.com**
 
-### ⚡ Roda isso no seu terminal
+### 👨‍💻 Quer me conhecer?
+
+Aqui você não vai achar um textão sobre mim — quem me apresenta é a minha IA. Roda isso no terminal:
 
 ```bash
 npx fuzzionx
 ```
 
-Cotações de cripto ao vivo (em US$ e R$), gráficos desenhados no próprio terminal e uma IA pra trocar ideia sobre mercados.
-
-### 👨‍💻 Um pouco mais sobre mim...
-
-```javascript
-const fuzzionx = {
-  nome: "João",
-  linguagens: ["JavaScript", "Python", "Solidity"],
-  mePergunteSobre: [
-    "tecnologia & IA",
-    "cripto & mercados",
-    "hardware",
-    "música",
-    "qualquer ideia nova",
-  ],
-
-  tecnologias: {
-    backend: {
-      node: ["Node.js", "APIs REST"],
-    },
-
-    cloud: {
-      aws: [
-        "Lambda",
-        "S3",
-        "CloudFront",
-        "DynamoDB",
-        "API Gateway",
-        "Route 53",
-      ],
-    },
-
-    devOps: {
-      tools: ["Git", "GitHub Actions"],
-    },
-
-    ia: {
-      generativa: [
-        "integração de LLMs",
-        "agentes",
-        "automação de workflows",
-      ],
-      modelos: ["Claude", "OpenAI"],
-    },
-
-    web3: {
-      contratos: ["Solidity", "tokenização"],
-    },
-  },
-
-  arquitetura: {
-    backend: ["serverless", "event-driven"],
-    filosofia: ["simples > complexo", "seguro por padrão"],
-  },
-
-  jaMexiCom: ["hardware & IoT", "bots de WhatsApp (Meta Cloud API)", "automações com IA"],
-
-  formacao: ["Relações Internacionais", "IA para Negócios — FIA"],
-  focoAtual: "finanças e mercados — estudando e construindo",
-  funFact: "estudo o mercado ouvindo grunge — volatilidade e liberdade combinam um pouco com grunge kk",
-};
-```
+Escolhe **conversar com a IA** e pergunta o que quiser sobre mim. De brinde: cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
 
