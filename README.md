@@ -14,7 +14,7 @@
 Manda um e-mail que eu respondo — mercados, código, política, música ou qualquer ideia que valha um café ou talvez uma cerveja kk.\
 **hello@fuzzionx.com**
 
-### 👨‍💻 Quer me conhecer?
+### Quer me conhecer?
 
 Aqui você não vai achar um textão sobre mim — quem me apresenta é a minha IA. Roda isso no terminal:
 
@@ -22,9 +22,9 @@ Aqui você não vai achar um textão sobre mim — quem me apresenta é a minha 
 npx fuzzionx
 ```
 
-Escolhe **conversar com a IA** e pergunta o que quiser sobre mim. De brinde: cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
+Pergunta o que quiser sobre mim pra ela. E já que você está aí, aproveita: dá uma olhada em quanto o Bitcoin está valendo agora (em dólar e em real), puxa um gráfico de 30 dias sem sair do terminal — e, se for curioso o bastante, talvez ache uma coisa que eu escondi por lá. 👀
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Curto conhecer gente diferente</b> — quer dizer um <b>oi? Vou ficar feliz em te conhecer!</b> 😊</em>
+<em><b>Puxa assunto sem medo</b> — pode ser sobre mercado, código, política, música ou aquela ideia aleatória das 3 da manhã. Respondo todas. 🤝</em>
 
 ---
 
