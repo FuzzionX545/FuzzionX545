@@ -13,6 +13,7 @@
 
 Manda um e-mail que eu respondo — mercados, código, política ou qualquer ideia que valha um café ou talvez uma cerveja:).\
 **hello@fuzzionx.com**
+
 Quer me conhecer?
 Aqui você não vai achar um textão sobre mim — quem me apresenta é a IA. Roda isso no terminal:
 
