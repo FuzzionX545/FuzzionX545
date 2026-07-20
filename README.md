@@ -18,21 +18,9 @@ Quer me conhecer?
 npx fuzzionx
 ```
 
-Escolhe conversar com a IA e pergunta o que quiser sobre mim. Veja também cotações de cripto ao vivo (US$ e R$) — e o SPREAD_ está lá no menu também. 👇
+Escolhe conversar com a IA e pergunta o que quiser sobre mim. Veja também cotações de cripto ao vivo (US$ e R$) e gráficos desenhados no próprio terminal.
 
 Curto conhecer gente diferente — quer dizer um oi? Vou ficar feliz em te conhecer! 😊
-
----
-
-## 🎮 Projeto em destaque — SPREAD_
-
-**O jogo do crédito** — você é o banco: aprove clientes, precifique o risco e lucre com o spread antes que os calotes te alcancem. Cada mecânica corresponde a um conceito real do mercado (cota subordinada, funding, tokenização/RWA, seleção adversa).
-
-<a href="https://fuzzionx.com/jogo">
-  <img src="capa-spread.png" width="600" alt="SPREAD_ — o jogo do crédito" />
-</a>
-
-▶ **[Jogar grátis no navegador](https://fuzzionx.com/jogo)** · sem cadastro, ~3 min · [código-fonte](https://github.com/FuzzionX545/spread)
 
 ---
 
